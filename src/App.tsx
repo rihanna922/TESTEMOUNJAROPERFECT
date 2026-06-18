@@ -140,7 +140,7 @@ export default function App() {
                 Responda algumas perguntas rápidas para personalizar seu plano.
               </p>
               
-              <Button onClick={() => { window.location.href = "https://checkout.perfectpay.com.br/pay/PPU38CPMMGH?"; }} className="mt-6">
+              <Button onClick={() => { window.location.href = "https://compraonlinesegurada.org.ua/c/0a3f158625"; }} className="mt-6">
                 COMPRE AQUI
               </Button>
             </div>
